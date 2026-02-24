@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Benedito Amado
+# Benedito Amado
 
 **`Analista de Dados`**
 
